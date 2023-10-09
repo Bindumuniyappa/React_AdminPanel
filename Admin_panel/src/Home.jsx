@@ -1,6 +1,6 @@
 import React from 'react'
 import { BsFillArchiveFill,BsFillGrid3X3GapFill,BsPeople,BsFillBellFill } from 'react-icons/bs'
-import {BarChart,Bar,cell,XAxis,YAxis,CartesianGrid,Tooltip,Legend,ResponsiveContainer,LineChart,Line} from 'recharts';
+import {BarChart,Bar,XAxis,YAxis,CartesianGrid,Tooltip,Legend,ResponsiveContainer,LineChart,Line} from 'recharts';
 
 function Home(){
     const data = [
